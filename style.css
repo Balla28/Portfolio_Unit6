@@ -1,6 +1,7 @@
     header {
+      height:500px;
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://thumbs1.picclick.com/d/w1600/pict/161728760924_/Colorful-Lion-Head-Home-Decor-Satin-Print-for.jpg");
       background-size: cover;
       color: white;
     }
@@ -9,6 +10,7 @@
     }
     h1 {
       font-size: 70px;
+       text-shadow: 2px 2px 2px red;
     }
     img {
       margin: 40px 0px 0px 0px;
